@@ -1,0 +1,29 @@
+/* XPM */
+static char *floor16x16[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #3B3B3B",
+". c #3F3F3F",
+"X c #464646",
+"o c #545454",
+"O c #565656",
+"+ c #626262",
+"@ c #737273",
+/* pixels */
+"@++++++++++++++O",
+"+XXXXXXXXXXXXXX.",
+"+XXXXXXXXXXXXXX.",
+"+XXXXXXXXXXXXXX.",
+"+XXXXXXXXXXXXXX.",
+"+XXXXXXXXXXXXXX.",
+"+XXXXXXXXXXXXXX.",
+"+XXXXXXXXXXXXXX.",
+"+XXXXXXXXXXXXXX.",
+"+XXXXXXXXXXXXXX.",
+"+XXXXXXXXXXXXXX.",
+"+XXXXXXXXXXXXXX.",
+"+XXXXXXXXXXXXXX.",
+"+XXXXXXXXXXXXXX.",
+"+XXXXXXXXXXXXXX.",
+"O.............. "
+};
